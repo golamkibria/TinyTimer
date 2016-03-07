@@ -1,0 +1,9 @@
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\obj\Debug\TinyTimer.Web.csprojResolveAssemblyReference.cache
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\bin\Debug\TinyTimer.Web.dll
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\bin\Debug\TinyTimer.Web.pdb
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\bin\Debug\TinyTimer.dll
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\bin\Debug\Newtonsoft.Json.dll
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\bin\Debug\TinyTimer.pdb
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\bin\Debug\Newtonsoft.Json.xml
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\obj\Debug\TinyTimer.Web.dll
+G:\@PROJECTS\MINE\TinyTimer\TinyTimer.Web\obj\Debug\TinyTimer.Web.pdb

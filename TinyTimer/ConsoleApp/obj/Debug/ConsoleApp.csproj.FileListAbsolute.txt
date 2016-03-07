@@ -1,0 +1,10 @@
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\TinyTimer.dll
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\TinyTimer.pdb
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\@PROJECTS\MINE\TinyTimer\ConsoleApp\obj\Debug\ConsoleApp.pdb
